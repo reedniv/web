@@ -3,8 +3,6 @@
   "short_name": "CodeRexa",
   "start_url": "/?utm_source=home",
   "display": "standalone",
-  "orientation": "any",
-  "language":  "english",
   "background_color": "#fff",
   "theme_color": "#2650AE",
   "description": "Berbagi Tips dan Tricks Seputar Blogger dan Informasi Lainnya",
