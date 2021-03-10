@@ -1,0 +1,9 @@
+*.bak
+*.zip
+.*
+/play
+node_modules
+bower_components
+/jsdelivr
+/statically
+index.html
