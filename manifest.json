@@ -1,7 +1,7 @@
 {
   "name": "coderexa",
-  "short_name": "CodeRexa",
-  "start_url": "/?utm_source=home",
+  "short_name": "Code Rexa",
+  "start_url": "/?utm_source=homescreen",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2650AE",
